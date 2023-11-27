@@ -26,4 +26,4 @@ class App():
         
 
 
-ft.app(target=App)
+ft.app(target=App, view=ft.AppView.WEB_BROWSER)
